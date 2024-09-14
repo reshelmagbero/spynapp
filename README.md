@@ -1,1 +1,7 @@
-# Spyn Project and Task Management App
+# Spyn Project Management 
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
