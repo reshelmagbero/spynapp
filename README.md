@@ -4,7 +4,7 @@ Spyn was designed with a user-centered approach, focusing on simplicity and ease
 
 ## Implemented Functionalities
 
-### Onboarding- 
+Onboarding- 
 After the app has been downloaded and installed, this is the Welcome Screen. This serves as the initial point for each user journey within the application.
 
 Log-in- 
